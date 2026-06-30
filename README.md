@@ -27,6 +27,21 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 - Seaborn
 - Jupyter Notebook
 
+## Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Handling Missing Values
+- Feature Engineering
+- Statistical Summary
+- Insight Generation
+- Python Programming
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
 ## Analysis Performed
 The notebook includes: <br>
 - Data Loading
