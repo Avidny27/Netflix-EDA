@@ -69,3 +69,13 @@ The notebook includes: <br>
 
 ## Visualizations
 
+## Movies VS TV Shows
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
+## Top Countries
+![Countries with most content on Netflix](images/country_distribution.png)
+## Rating Distribution
+![Rating Distribution](images/ratings_distribution.png)
+## Top Genres
+![Top Genres](images/genres.png)
+## Heatmap of Country-wise Distribution of Movies and TV Shows on Netflix
+![heatmap](images/heatmap.png)
