@@ -79,3 +79,13 @@ The notebook includes: <br>
 ![Top Genres](images/genres.png)
 ## Heatmap of Country-wise Distribution of Movies and TV Shows on Netflix
 ![heatmap](images/heatmap.png)
+
+## Future Improvements
+- Interactive dashboard using Plotly or Power BI
+- Sentiment analysis using movie descriptions
+- Recommendation system.
+- Machine learning-based content prediction
+
+## Author
+**Avidny Mestry**<br>
+- GitHub : https://github.com/Avidny27
